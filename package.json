@@ -32,7 +32,7 @@
     "@types/html-webpack-plugin": "^3.2.2",
     "@types/source-map": "^0.5.7",
     "@types/webpack": "^4.41.10",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "preact": "^10.4.0",
     "webpack": "^4.42.1"
   }
